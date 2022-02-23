@@ -1,0 +1,13 @@
+/* table */
+@media (min-width: 768px) {
+  #seytech_main_nav .navbar-nav {
+    max-width: 400px;
+  }
+}
+
+/* desktop */
+@media (min-width: 992px) {
+  #seytech_main_nav .navbar-nav {
+    max-width: 550px;
+  }
+}
